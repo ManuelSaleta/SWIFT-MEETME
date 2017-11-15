@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "30608B903C7B6268EB79C1E68928E495795E4C8F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "30608B903C7B6268EB79C1E68928E495795E4C8F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "82D3D36E-99E4-4C32-90BF-F8DDD401DA54",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "30608B903C7B6268EB79C1E68928E495795E4C8F" : "SWIFT-TIME-s-UP\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TimeUP!_v1.0",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TimeUP!_v1.0.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ManuelSaleta\/SWIFT-TIME-s-UP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "30608B903C7B6268EB79C1E68928E495795E4C8F"
+    }
+  ]
+}

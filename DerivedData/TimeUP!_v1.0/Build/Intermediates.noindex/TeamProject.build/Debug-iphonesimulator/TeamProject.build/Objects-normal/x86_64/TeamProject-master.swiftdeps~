@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.0.2 (swiftlang-900.0.69.2 clang-900.0.38)"
+options: "fb6351bb9d36a44770e8db83fc7d821d"
+build_time: [1510761893, 614670000]
+inputs:
+  "/Users/manuelsaleta/Documents/GitHub/SWIFT-TIME-s-UP/TeamProject/TeamProject/AnswersViewController.swift": [1510512424, 0]
+  "/Users/manuelsaleta/Documents/GitHub/SWIFT-TIME-s-UP/TeamProject/TeamProject/MeetingViewController.swift": [1510512315, 0]
+  "/Users/manuelsaleta/Documents/GitHub/SWIFT-TIME-s-UP/TeamProject/TeamProject/QuestionsViewController.swift": [1510512359, 0]
+  "/Users/manuelsaleta/Documents/GitHub/SWIFT-TIME-s-UP/TeamProject/TeamProject/CreateViewController.swift": [1510507329, 0]
+  "/Users/manuelsaleta/Documents/GitHub/SWIFT-TIME-s-UP/TeamProject/TeamProject/AppDelegate.swift": [1510269850, 0]
+  "/Users/manuelsaleta/Documents/GitHub/SWIFT-TIME-s-UP/TeamProject/TeamProject/HomeViewController.swift": [1510507330, 0]
